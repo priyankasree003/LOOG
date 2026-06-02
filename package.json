@@ -1,0 +1,15 @@
+{
+  "name": "logiflow",
+  "version": "1.0.0",
+  "description": "LogiFlow — Supply Chain Management Portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev --port 8889"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.8.1"
+  }
+}
